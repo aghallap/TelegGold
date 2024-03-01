@@ -1,1 +1,11 @@
+Version 3.3.0. Changelog:
 
+> Source code updated to v10.6.4.1.
+> Self-destructing Voice Messages: Users can now send a voice message that can be listened to only once, after which it self-destructs.
+> Self-destructing Video Messages: Like self-destructing voice messages, video messages disappear after the first view.
+> Pause During Recording: Pause and play back a voice or a video message before it is sent.
+> Updated Saved Messages.
+> Limit Who You Can Receive Private Messages From.
+> Message Reading Time in Private Chats.
+> Colorful Calls, Thanos Snap Effect, and an Epic Update for Bots
+> Bug fixes and other minor improvements.
