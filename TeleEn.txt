@@ -1,4 +1,4 @@
-Version 3.3.0. Changelog:
+Version 3.4.0. Changelog:
 
 > Source code updated to v10.6.4.1.
 > Self-destructing Voice Messages: Users can now send a voice message that can be listened to only once, after which it self-destructs.
