@@ -3,7 +3,7 @@
     "update_code": "0",
     "reminder_time": "3",
     "update_version": "v3.50",
-	"org.telegram.goldpro": "https://www.abu2rab.com/2024/02/down-telegram-ali.html",
+	"org.telegram.goldpro": "https://is.gd/tplus",
     "update_message": "
 <p>Update VØªØ­Ø¯ÙŠØ« 3.50</p>
 <li>Ø§Ù„ØªØ­Ø¯ÙŠØ« Ù„Ù†Ø³Ø®Ø© Ø§Ù„Ù…Ø§Ø±ÙƒØª 10.13.1.2</li>
