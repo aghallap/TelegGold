@@ -1,9 +1,8 @@
 Version 3.5.0 Changelog:
 
-> Update source code to v10.10.1.
-> Earn money from channels.
-> Add date of birth to profile.
-> Introduction letter for accounts.
-> Show the channel in the account.
-> Link bots to the account.
-> Create a link to start chatting with your desired message.
+> Update source code to v10.14.3.
+> Enabled Save media and Copy messages from Closed channels and groups.
+> (Exclusive) Screen capture enabled for stories if it is stopped
+> (Exclusive) Story saving enabled if it is stopped
+> (Exclusive) Copy story link enabled if it is stopped
+> Bug fixes and other minor improvements.
