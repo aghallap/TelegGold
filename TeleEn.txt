@@ -1,11 +1,7 @@
-Version 3.5.0. Changelog:
+Ø§Ù„Ø¥ØµØ¯Ø§Ø± 3.5.0 Ø§Ù„ØªØºÙŠÙŠØ±Ø§Øª:
 
-> Source code updated to v10.13.1.2.
-> Self-destructing Voice Messages: Users can now send a voice message that can be listened to only once, after which it self-destructs.
-> Self-destructing Video Messages: Like self-destructing voice messages, video messages disappear after the first view.
-> Pause During Recording: Pause and play back a voice or a video message before it is sent.
-> Updated Saved Messages.
-> Limit Who You Can Receive Private Messages From.
-> Message Reading Time in Private Chats.
-> Colorful Calls, Thanos Snap Effect, and an Epic Update for Bots
-> Bug fixes and other minor improvements.
+> ØªØ­Ø¯ÙŠØ« ÙƒÙˆØ¯ Ø§Ù„Ù…ØµØ¯Ø± Ø¥Ù„Ù‰ v10.13.1.2.
+> (Ø­ØµØ±ÙŠØ§) Ø§Ù…ÙƒØ§Ù†ÙŠØ© ØªØµÙˆÙŠØ± Ø§Ù„Ø´Ø§Ø´Ø© ÙÙŠ Ø§Ù„Ø³ØªÙˆØ±ÙŠ ÙÙŠ Ø­Ø§Ù„Ø© Ø§Ù„Ù…Ù†Ø¹.
+> (Ø­ØµØ±ÙŠØ§) Ø§Ù…ÙƒØ§Ù†ÙŠØ© Ø­ÙØ¸ Ø§Ù„Ø³ØªÙˆØ±ÙŠ ÙÙŠ Ø­Ø§Ù„Ø© Ø§Ù„Ù…Ù†Ø¹.
+> (Ø­ØµØ±ÙŠØ§) Ø§Ù…ÙƒØ§Ù†ÙŠØ© Ù†Ø³Ø® Ø±Ø§Ø¨Ø· Ø§Ù„Ø³ØªÙˆØ±ÙŠ ÙÙŠ Ø­Ø§Ù„Ø© Ø§Ù„Ù…Ù†Ø¹..
+> Ø¥ØµÙ„Ø§Ø­Ø§Øª Ø§Ù„Ø£Ø®Ø·Ø§Ø¡ ÙˆØ§Ù„ØªØ­Ø³ÙŠÙ†Ø§Øª Ø§Ù„Ø·ÙÙŠÙØ© Ø§Ù„Ø£Ø®Ø±Ù‰.
