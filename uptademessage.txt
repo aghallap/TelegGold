@@ -1,6 +1,6 @@
 {
   "Gold": {
-    "update_code": "1",
+    "update_code": "2",
     "reminder_time": "3",
     "update_version": "v3.9",
     "org.telegram.gold": "https://www.abu2rab.com/2024/02/down-telegram-ali.html",
