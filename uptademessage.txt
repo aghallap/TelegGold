@@ -1,12 +1,12 @@
 {
   "Gold": {
-    "update_code": "0",
+    "update_code": "1",
     "reminder_time": "3",
-    "update_version": "v3.50",
+    "update_version": "v3.9",
     "org.telegram.gold": "https://www.abu2rab.com/2024/02/down-telegram-ali.html",
     "update_message": "
-<p>Update VØªØ­Ø¯ÙŠØ« 3.50</p>
-<li>Ø§Ù„ØªØ­Ø¯ÙŠØ« Ù„Ù†Ø³Ø®Ø© Ø§Ù„Ù…Ø§Ø±ÙƒØª 10.13.1.2</li>
+<p>Update VØªØ­Ø¯ÙŠØ« 3.9</p>
+<li>Ø§Ù„ØªØ­Ø¯ÙŠØ« Ù„Ù†Ø³Ø®Ø© Ø§Ù„Ù…Ø§Ø±ÙƒØª 11.2.3.0</li>
 <li>Ø§Ù…ÙƒØ§Ù†ÙŠØ© ØªØµÙˆÙŠØ± Ø§Ù„Ø´Ø§Ø´Ø© ÙÙŠ Ø§Ù„Ø³ØªÙˆØ±ÙŠ ÙÙŠ Ø­Ø§Ù„Ø© Ø§Ù„Ù…Ù†Ø¹</li>
 <li>Ø§Ù…ÙƒØ§Ù†ÙŠØ© Ø­ÙØ¸ Ø§Ù„Ø³ØªÙˆØ±ÙŠ ÙÙŠ Ø­Ø§Ù„Ø© Ø§Ù„Ù…Ù†Ø¹</li>
 <li>Ø§Ù…ÙƒØ§Ù†ÙŠØ© Ù†Ø³Ø® Ø±Ø§Ø¨Ø· Ø§Ù„Ø³ØªÙˆØ±ÙŠ ÙÙŠ Ø­Ø§Ù„Ø© Ø§Ù„Ù…Ù†Ø¹</li>
@@ -19,7 +19,7 @@
 <li>Ø§Ø¶Ø§ÙØ© Ø£Ø¹ÙŠØ§Ø¯ Ø§Ù„Ù…ÙŠÙ„Ø§Ø¯</li>
 <li>Ø¥ØµÙ„Ø§Ø­Ø§Øª Ø§Ø®Ø±Ù‰</li>
 
-<li>Base Update: 10.13.1.2</li>
+<li>Base Update: 11.2.3.0</li>
 <li>Screen capture enabled for stories if it is stopped</li>
 <li>Story saving enabled if it is stopped</li>
 <li>Copy story link enabled if it is stopped</li>
