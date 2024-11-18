@@ -1,6 +1,6 @@
-Version 3.5.0 Changelog:
+Version 3.9.0 Changelog:
 
-> Update source code to v10.13.1.2.
+> Update source code to v11.2.3.0
 > (Exclusive) Screen capture enabled for stories if it is stopped
 > (Exclusive) Story saving enabled if it is stopped
 > (Exclusive) Copy story link enabled if it is stopped
