@@ -1,12 +1,12 @@
 {
   "Gold": {
-    "update_code": "7",
+    "update_code": "10",
     "reminder_time": "3",
-    "update_version": "v4.1.0",
+    "update_version": "v4.3.0",
     "org.telegram.goldpro": "https://www.abu2rab.com/2024/02/down-telegram-ali.html",
     "update_message": "
-<p>Update New « 4.1.0</p>
-<li>تحديث القاعدة : 11.5.3.0</li>
+<p>Update New « 4.3.0</p>
+<li>تحديث القاعدة : 11.8.2.1</li>
 <li>دعم هدايا نجوم تيليجرام</li>
 <li>تحسين الفيديوهات: تحميل أسرع، جودة أفضل، ضبط سرعة التشغيل.</li>
 <li>إضافة الوسائط إلى الرسائل المرسلة.</li>
@@ -16,7 +16,7 @@
 <li>عدادات رد الفعل الدقيقة.</li>
 <li>إصلاحات أخرى</li>
 
-<li>Base Update: 11.5.3.0</li>
+<li>Base Update: 11.8.2.1</li>
 <li>Support for Telegram Stars giveaways</li>
 <li>Improved Videos: Faster Loading, Better Quality, Adjusting Playback Speed.</li>
 <li>Add Media to Sent Messages.</li>
